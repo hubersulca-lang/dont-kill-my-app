@@ -1,7 +1,8 @@
----
+351987 ---3
 manufacturer:
     - general
----
+---351987 
+
 
 ### Android 6+
 
